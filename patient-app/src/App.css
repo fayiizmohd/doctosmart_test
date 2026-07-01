@@ -1,3 +1,4 @@
+/*
 .app-container {
   position: relative;
   width: 100vw;
@@ -108,7 +109,7 @@
   flex-direction: column;
 }
 
-/* Login Form Styles */
+/* Login Form Styles 
 .login-form {
   max-width: 400px;
   margin: 0 auto;
@@ -202,7 +203,7 @@
   background: rgba(255, 255, 255, 0.2);
 }
 
-/* States */
+/* States 
 .loading-state {
   display: flex;
   flex-direction: column;
@@ -311,3 +312,4 @@
   color: #e2e8f0;
   line-height: 1.5;
 }
+*/
