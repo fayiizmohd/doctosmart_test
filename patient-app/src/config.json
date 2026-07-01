@@ -1,0 +1,5 @@
+{
+  "apiUrl": "https://demo.lupinary.com/api/patients?user_id=1&clinic_id=1&page_no=0",
+  "username": "your_username",
+  "password": "your_password"
+}
